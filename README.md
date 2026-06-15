@@ -72,7 +72,7 @@ and workforce demographics.
 - Research & Development has the highest job satisfaction scores
 
 ## Files
-- `P2_HR_Workforce_Dashboard.pbix` — Power BI report file
-- `Pic 1.png` — HR Overview page screenshot
-- `Pic 2.png` — Attrition Analysis page screenshot
-- `Pic 3.png` — Salary & Satisfaction page screenshot
+- `HR_Workforce_Dashboard.pbix` — Power BI report file
+- `First Image.png` — HR Overview page screenshot
+- `Second Image.png` — Attrition Analysis page screenshot
+- `Third Image.png` — Salary & Satisfaction page screenshot
