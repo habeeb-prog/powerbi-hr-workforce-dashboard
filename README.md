@@ -25,14 +25,14 @@ and workforce demographics.
 ## Dashboard Pages
 
 ### Page 1 — HR Overview
-![HR Overview](Pic%201.png)
+![HR Overview](PIC%201.png)
 - Total Employees, Active Employees, Total Attrition, Attrition Rate
 - Donut chart — Active vs Departed Employees
 - Bar chart — Attrition by Department
 - Slicers — Department, Gender, Overtime
 
 ### Page 2 — Attrition Analysis
-![Attrition Analysis](Pic%202.png)
+![Attrition Analysis](PIC%202.png)
 - Attrition Rate, Overtime Attrition Rate, Male Attrition Rate
 - Bar chart — Attrition by Job Role
 - Bar chart — Attrition Rate by Age
@@ -40,7 +40,7 @@ and workforce demographics.
 - Slicers — Department, Gender
 
 ### Page 3 — Salary & Satisfaction
-![Salary & Satisfaction](Pic%203.png)
+![Salary & Satisfaction](PIC%203.png)
 - Avg Monthly Income, Salary Gap, Avg Job Satisfaction
 - Scatter chart — Age vs Monthly Income by Job Role
 - Bar chart — Job Satisfaction by Department
