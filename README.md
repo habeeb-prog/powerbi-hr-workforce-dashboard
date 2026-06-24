@@ -1,13 +1,10 @@
 
-# HR & Workforce Analytics Dashboard
-### Power BI | IBM HR Analytics Dataset | 1,470 Employees
-
 ## Live Dashboard
-[View Live Dashboard](paste your Power BI link here)
+[View Live Dashboard](https://app.powerbi.com/groups/me/reports/a0e77a61-5339-400b-9319-969b964a41e7?pbi_source=desktop)
+> Note: Requires a Power BI account to view. Download the .pbix file below to explore locally.
 
 ## Download Dashboard File
-[Download Power BI File (.pbix)](paste your Google Drive link here)
-
+[Download Power BI File (.pbix)](https://github.com/habeeb-prog/powerbi-hr-workforce-dashboard/blob/main/HR_Workforce_Dashboard.pbix)
 ## Overview
 An end-to-end Power BI dashboard analysing workforce data 
 for 1,470 employees. The dashboard answers critical HR 
